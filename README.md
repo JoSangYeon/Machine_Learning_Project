@@ -8,3 +8,10 @@
 + DACON 택배 유통량 예측 모델 설계
     +  https://dacon.io/competitions/official/235867/overview/description
 + Attention을 적용한 모델도 만들어봄 ㅎㅎ
+
+2022.01.07
++ 포트홀 검출 전처리작업
++ 훈련코드 초안
+
++ 딥러닝 기초(퍼셉트론) 내용 보충
++ 선형회귀+분류 문제 기초 구현
